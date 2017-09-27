@@ -1,0 +1,7 @@
+{
+    "id": "liferay",
+    "image": "wedeploy/liferay:dxp-sp4-20170822",
+    "volume": "/wedeploy-container",
+    "memory": 4096,
+    "cpu": 3
+}
